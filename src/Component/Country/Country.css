@@ -1,0 +1,10 @@
+.Country {
+    border: solid 2px seashell;
+    margin : 10px;
+    padding : 30px;
+    border-radius : 20px;
+}
+
+.country-visited {
+    background-color: darkslateblue;
+}

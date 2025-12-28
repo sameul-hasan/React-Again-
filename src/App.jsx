@@ -1,6 +1,6 @@
 
 import './App.css';
-import Countries from './countries.jsx';
+import Countries from './Component/Countries/countries.jsx';
 import { Suspense } from 'react';
 
 const CountriesPromise = fetch('https://openapi.programming-hero.com/api/all')
